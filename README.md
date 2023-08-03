@@ -72,3 +72,8 @@ We welcome contributions! Please submit PRs for any enhancements or bug fixes.
 
 ## ⚖️ License
 This project is licensed under the MIT License.
+
+✉️ Contact
+If you have any questions, feel free t open an issue.
+
+Please note that this library is still in its early stages, and its API might change in the future. But we're constantly improving it and we welcome feedback and suggestions! Join us in making TokenThrift the go-to Python library for cost-efficient use of AI services! 🚀🌟
